@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.0.0",
-    "url":  "https://github.com/jungmyung2/taken_ai_classifier_updates/releases/download/v1.0.0/TakenAIClassifier-1.0.0.zip",
-    "sha256":  "bfaeb9c1a6011bf108e73a27234f4513b92a43b4dec1e052239e448b01275cfd",
+    "version":  "1.0.1",
+    "url":  "https://github.com/jungmyung2/taken_ai_classifier_updates/releases/download/v1.0.1/TakenAIClassifier-1.0.1.zip",
+    "sha256":  "0b68ffea08d7c93d47bf34402f50b0a145f356ed0ac5e15e2539d079306262ba",
     "required":  false,
-    "notes":  "Initial launcher-update compatible app package."
+    "notes":  "앱 이름을 타켄 오더브릿지로 변경했습니다."
 }
